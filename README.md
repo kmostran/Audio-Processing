@@ -1,2 +1,3 @@
 # Audio-Processing
-C++.
+C++
+Algoirthm that convolves wav file with an input response sound file
